@@ -1,5 +1,5 @@
 <?php
-// neuer Text
+// neuer Text 
 class BauvorhabenVerwalten
 {
 	public function getAlleBauvorhaben($app) {
